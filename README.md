@@ -156,7 +156,7 @@ Data-wise, the score relies on counts (e.g., number of businesses/stops, school 
 
 ---
 
-## Appendix
+## appendices
 
 - **Figure 1**. Z-Score Distribution Boxplot  
 - **Figure 2**. Well-Resourced Score Distribution Barplot  
