@@ -1,7 +1,7 @@
 # DATA2001 REPORT  
 Hardik Chojar (530377104), Dylan Uno Syahfaril (530675262), Wilson Peter Yulianto (530762481)
 ## Important !!!
-Please download the files **Greater_Sydney_Analysis.pdf** and **Greater_Sydney_Analysis.html** from the repository to view the visualizations created in this project.
+Please download the files **Greater_Sydney_Analysis_Report.pdf** and **Greater_Sydney_Analysis.html** from the repository to view the visualizations created in this project.
 ## 1. Dataset Description
 
 ### 1.1. Data Sources
